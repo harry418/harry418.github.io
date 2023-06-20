@@ -44,7 +44,7 @@
 <br /><br />
 
 
-## View live demo [here]("https://harry418.github.io/portfolio",/).
+## View live demo [here](https://harry418.github.io/portfolio/).
 
 <br />
 
